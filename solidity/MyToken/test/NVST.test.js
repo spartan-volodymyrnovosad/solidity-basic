@@ -1,6 +1,3 @@
-// const { expect } = require("chai")
-// const { ethers } = require("hardhat")
-// const tokenJSON = require("../artifacts/contracts/NVST.sol/NVST.json")
 
 const { expect } = require("chai")
 const { ethers } = require("hardhat")
