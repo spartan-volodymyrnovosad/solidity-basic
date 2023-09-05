@@ -25,8 +25,6 @@ contract ERC20 is IERC20 {
         tokenName = _name;
         tokenSymbol = _symbol;
         owner = msg.sender;
-        // balances[0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266] = 10000;
-        // balances[0x70997970C51812dc3A010C7d01b50e0d17dc79C8] = 10000;
         mint(initialSupply, shop);
     }
 

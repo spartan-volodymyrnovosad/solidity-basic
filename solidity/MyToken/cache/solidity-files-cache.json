@@ -2,14 +2,14 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/vovanovosad/Desktop/solidity/MyToken/contracts/ERC20.sol": {
-      "lastModificationDate": 1693827641932,
-      "contentHash": "5eff43d3053312f28cebd35febc5c1dd",
+      "lastModificationDate": 1693907863292,
+      "contentHash": "3504273b4c36f4f04ce4269c26891efb",
       "sourceName": "contracts/ERC20.sol",
       "solcConfig": {
-        "version": "0.8.19",
+        "version": "0.8.9",
         "settings": {
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -43,10 +43,10 @@
       "contentHash": "8387c6dd6cbd63b8bb696f39f0064c99",
       "sourceName": "contracts/IERC20.sol",
       "solcConfig": {
-        "version": "0.8.19",
+        "version": "0.8.9",
         "settings": {
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {
@@ -74,14 +74,14 @@
       ]
     },
     "/Users/vovanovosad/Desktop/solidity/MyToken/contracts/NVST.sol": {
-      "lastModificationDate": 1693813532485,
-      "contentHash": "8fc54def2391a7efab3fdd1fbd875179",
+      "lastModificationDate": 1693908083228,
+      "contentHash": "24579f88283e724d3dddafe76dbcda12",
       "sourceName": "contracts/NVST.sol",
       "solcConfig": {
-        "version": "0.8.19",
+        "version": "0.8.9",
         "settings": {
           "optimizer": {
-            "enabled": false,
+            "enabled": true,
             "runs": 200
           },
           "outputSelection": {

@@ -6,7 +6,7 @@ import "./ERC20.sol";
 
 contract NVST is ERC20 {
 
-    constructor(address _shop) ERC20("Novosad Token", "NVST", 1000000000000, _shop) {
+    constructor(address _shop) ERC20("Novosad Token", "NVST", 1000000000000000000000000000, _shop) {
 
     }
 }
